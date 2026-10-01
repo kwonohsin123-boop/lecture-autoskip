@@ -4,7 +4,7 @@ Oct 1, 2026 · @캡틴버기
 
 ## 준비 (최초 1회)
 
-Python과 크롬이 설치된 상태에서, `auto_lecture.py`를 폴더(예: `C:\lecture`)에 저장하고 명령 프롬프트에 입력합니다.
+Python과 크롬이 설치된 상태에서, `auto_lecture.py`를 폴더(예: `C:\lecture-autoskip`)에 저장하고 명령 프롬프트에 입력합니다.
 
 ```
 pip install playwright
@@ -15,7 +15,7 @@ pip install playwright
 **1단계. 실행** — 명령 프롬프트에 아래 두 줄을 입력합니다.
 
 ```
-cd C:\lecture
+cd C:\lecture-autoskip
 python auto_lecture.py
 ```
 
